@@ -2,7 +2,7 @@ Sales Performance Analysis
 
 A data analysis project using Python and Jupyter Notebook to analyze sales trends, regional performance, product sales, and monthly sales patterns using the Superstore dataset.
 
-Tools Used
+Tools Used-
 Python
 Pandas
 Matplotlib
